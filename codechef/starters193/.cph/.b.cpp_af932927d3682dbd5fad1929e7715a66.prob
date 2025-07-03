@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"/home/sid/Work/contests/codechef/starters193/b.cpp","tests":[{"id":1751466917603,"input":"5\n1 0\n0 1\n1 1\n1 3\n3 2\n","output":"Yes\nNo\nYes\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sid/Work/contests/codechef/starters193/b.cpp","group":"local","local":true}
